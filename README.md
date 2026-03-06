@@ -1,4 +1,4 @@
-# CLAUDE.md — Pacman Style Mini Game in Java
+Pacman Style Mini Game in Java
  
 ## Project Overview
 A 2D tile-based dungeon crawler game built in Java. The game procedurally generates a world from a user-supplied seed, places a player avatar, enemies, and collectibles, and supports save/load via a flat text file.
